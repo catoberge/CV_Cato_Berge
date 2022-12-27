@@ -141,7 +141,7 @@ st.markdown(
 
 txt(
     "*april 2022-nåværende*",
-    """**Rådgiver etter- og videreutdanning (EVU), Universitetet i Agder
+    """**Rådgiver etter- og videreutdanning (EVU)**, Universitetet i Agder
 \nHovedoppgaven er å utvikle, markedsføre og koordinere EVU-arbeid, i samarbeid med fakulteter og regionen. Dette innebærer blant annet:
 - Bidra i oppfølging og arbeid med handlingsplaner og statistikk (blant annet Kandidatundersøkelsen og Tableau).
 - Kontaktperson for EVU og ansvarlig for oppfølging av nasjonale avtaler gjennom Utdanningsdirektoratet. 
@@ -291,7 +291,7 @@ st.markdown(
 
 #############################
 # Download files
-with open("cv_cato_berge.pdf", "rb") as file:
+with open("cv_catoberge.pdf", "rb") as file:
     st.download_button(
         label="Last ned CV", data=file, file_name="cv_catoberge.pdf", mime="pdf"
     )
