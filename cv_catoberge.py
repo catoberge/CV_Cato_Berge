@@ -102,9 +102,10 @@ def txt4(a, b, c):
 st.markdown("## Kort om", unsafe_allow_html=True)
 st.info(
     """
-- Mastergrad samfunnskommunikasjon.
+- Jobber som rådgiver/koordinator for etter- og videreutdanning. 
 - Erfaring med innholdsproduksjon og internkommunikasjon. Spesielt glad tekstproduksjon og klarspråk. Liker rutineoppgaver og grave meg ned i detaljer. 
 - Erfaring fra sikkerhetsbransjen som kontrollør og konsulent for redusert svinn og økt servicegrad i dagligvare og apotek.
+- Mastergrad samfunnskommunikasjon.
 - Glad i og god med foto. Hengiven Fujifilmentusiast. 
 - Selvlært datanerd og leker så smått med koding. Er spesielt interessert i datavisualisering gjennom Python, Pandas og Matplotlib.  
 """
